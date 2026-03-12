@@ -1,0 +1,43 @@
+channel_id,sales_channel,payment_method
+1,Apple Store,EMI / Installment
+2,Carrier Store,Gift Card
+3,Online (Apple.com),Credit Card
+4,Carrier Store,Apple Pay
+5,Third-Party Retailer,Net Banking
+6,Corporate / B2B,Gift Card
+7,Apple Store,Credit Card
+8,Online (Apple.com),Debit Card
+9,Authorized Reseller,Apple Pay
+10,Corporate / B2B,Debit Card
+11,Authorized Reseller,Gift Card
+12,Apple Store,Apple Pay
+13,Third-Party Retailer,Debit Card
+14,Carrier Store,Debit Card
+15,Online (Apple.com),Cash
+16,Corporate / B2B,Apple Pay
+17,Authorized Reseller,Credit Card
+18,Online (Apple.com),Gift Card
+19,Apple Store,Cash
+20,Corporate / B2B,Cash
+21,Online (Apple.com),Apple Pay
+22,Authorized Reseller,Cash
+23,Third-Party Retailer,Gift Card
+24,Online (Apple.com),EMI / Installment
+25,Authorized Reseller,EMI / Installment
+26,Carrier Store,Credit Card
+27,Corporate / B2B,EMI / Installment
+28,Apple Store,Net Banking
+29,Carrier Store,Cash
+30,Corporate / B2B,Credit Card
+31,Third-Party Retailer,Cash
+32,Third-Party Retailer,Credit Card
+33,Third-Party Retailer,Apple Pay
+34,Corporate / B2B,Net Banking
+35,Apple Store,Debit Card
+36,Online (Apple.com),Net Banking
+37,Authorized Reseller,Net Banking
+38,Apple Store,Gift Card
+39,Carrier Store,EMI / Installment
+40,Carrier Store,Net Banking
+41,Authorized Reseller,Debit Card
+42,Third-Party Retailer,EMI / Installment
